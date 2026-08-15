@@ -1,30 +1,30 @@
-# qa-portfolio-projects
-QA Portfolio - Manual | Que demuestra el flujo completo base de pruebas para cada módulo, usando el playground "calidadsinhumo". A través del análisis, estrategia de pruebas, aplicación de técnicas de caja negra, generación de casos de prueba, ejecución y reporte de defectos, hasta su documentación base. 
+# QA-portfolio
+QA - Manual | Que demuestra el flujo completo base de pruebas para cada módulo, usando el playground "calidadsinhumo". A través del análisis, estrategia de pruebas, aplicación de técnicas de caja negra, generación de casos de prueba, ejecución y reporte de defectos, hasta su documentación base. 
 
 ---
 
 ## [ Objetivo ]
-    Demostrar conocimiento base QA Manual aplicada a proyecto:
+Demostrar conocimiento base QA Manual aplicada a proyecto:
 
-    - Criterio, análisis y estrategia de pruebas
-    - Aplicación de técnicas de caja negra para el diseño de pruebas
-    - Casos de prueba que nace a través del análisis
-    - Ejecución de pruebas
-    - Reporte de pruebas
+- Criterio, análisis y estrategia de pruebas
+- Aplicación de técnicas de caja negra para el diseño de pruebas
+- Casos de prueba que nace a través del análisis
+- Ejecución de pruebas
+- Reporte de pruebas
 
-## Estructura
+## [ Estructura base ]
 
 ```
 qa-portfolio-projects/
 ├── README.md
 └── students-register/
     ├── base-plan.md        (requisitos + riesgos + estrategia)
-    ├── test-cases.md       (diseño de 13 casos)
+    ├── test-cases.md       (diseño de casos)
     ├── test-execution.md   (resultados de ejecución)
-    ├── bug-reports.md      (3 reportes de defecto)
+    ├── bug-reports.md      (reportes de defecto)
 ```
 
-## [ 1. Registro de estudiante ]
+## 1. Registro de estudiante
 
 | **Documento** | **Descripción** |
 |--------|------|
@@ -36,8 +36,8 @@ qa-portfolio-projects/
 ## [ Proyecto ]
 Elaborado por Jhon Churivanti Alva, principiante en QA y Testing de Software. 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-churivanti-alva/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:churivantialvajhonn@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-churivanti-alva/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:churivantialvajhonn@gmail.com)
 
 ---
 
