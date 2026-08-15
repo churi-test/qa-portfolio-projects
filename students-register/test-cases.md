@@ -1,6 +1,6 @@
 ## Casos de Prueba Manuales - Diseñados
 
-**Fecha**: Agosto 2026  **Autor**: Jhon Churivanti Alva   **Web para prueba**: [Playground CSH](https://playground.calidadsinhumo.com/registro)
+**Fecha**: Agosto 2026  | **Autor**: Jhon Churivanti Alva  | **Web para prueba**: [Playground CSH](https://playground.calidadsinhumo.com/registro)
 
 ---
 ## Resumen
@@ -13,7 +13,8 @@
 | Funcional  | 1  |
 
 Total de pruebas diseñados: 13
-> `Nota: A continuación puede observar algunos ejemplos. Pero, puede visualizar por completo los 13 casos diseñados de manera detallada más las técnicas aplicadas, aquí ->` [ test-cases](https://docs.google.com/spreadsheets/d/1-xA_HidvMXRWbK-z-qoKIwq2oTDCwvIAYQSCSvt1cfk/edit?usp=sharing)
+
+**☑️ Visualizar por completo las pruebas diseñadas, gracias 👉** [ test-cases](https://docs.google.com/spreadsheets/d/1-xA_HidvMXRWbK-z-qoKIwq2oTDCwvIAYQSCSvt1cfk/edit?usp=sharing)
 
 ---
 ## Módulo 1 — Registro de estudiante
@@ -23,8 +24,8 @@ Total de pruebas diseñados: 13
 | **Campo** | **Detalle** |
 |--------|------|
 | **IDs Riesgo** | R-02 |
-| **Precondición**   | - Conexión a internet estable - Se accede al formulario del sistema: https://playground.calidadsinhumo.com/registro - El usuario no tenga una cuenta registrada  |
-| **Pasos**  | 1. Llenar cada campo del formulario con los datos de la prueba. 2. Presionar el botón "Crear cuenta".  |
+| **Precondición**   | <ul><li>Conexión a internet estable</li> <li> Se accede al formulario del sistema: https://playground.calidadsinhumo.com/registro </li> <li> El usuario no tenga una cuenta registrada </li></ul>  |
+| **Pasos**  | <ol><li> Llenar cada campo del formulario con los datos de la prueba.</li> <li>Presionar el botón "Crear cuenta".</li></ol>  |
 | **Resultado esperado** | Se espera que el sistema registre el nuevo estudiante de forma exitosa, muestre el mensaje de “¡Registro exitoso! Tu cuenta ha sido creada."  |
 
 
@@ -34,9 +35,9 @@ Total de pruebas diseñados: 13
 | **Campo** | **Detalle** |
 |--------|------|
 | **IDs Riesgo** | R-03 |
-| **Precondición**   | - Conexión a internet estable - Se accede al formulario del sistema: https://playground.calidadsinhumo.com/registro - El usuario no tenga una cuenta registrada  |
-| **Pasos**  | 1. Llenar cada campo del formulario con los datos de la prueba. 2. Presionar el botón "Crear cuenta".  |
-| **Resultado esperado** | - Se espera que el sistema tras el mensaje de registro exitoso, limpie cada campo del formulario: nombre completo, email, contraseña, edad.  |
+| **Precondición**   | <ul><li>Conexión a internet estable</li> <li> Se accede al formulario del sistema: https://playground.calidadsinhumo.com/registro </li> <li> El usuario no tenga una cuenta registrada </li></ul> |
+| **Pasos**  | <ol><li>Llenar cada campo del formulario con los datos de la prueba.</li> <li>Presionar el botón "Crear cuenta".</li></ol>  |
+| **Resultado esperado** | Se espera que el sistema tras el mensaje de registro exitoso, limpie cada campo del formulario: nombre completo, email, contraseña, edad.  |
 
 ---
 QA Portfolio — Jhon Churivanti
