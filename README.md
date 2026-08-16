@@ -33,6 +33,16 @@ qa-portfolio-projects/
 | [Ejecución de pruebas](/students-register/test-execution.md)   | 13 pruebas ejecutadas   |
 | [Reporte de defectos](/students-register/bug-reports.md)   | 3 bugs documentados con severidad y prioridad   |
 
+## 2. Inicio de sesión
+
+| **Documento** | **Descripción** |
+|--------|------|
+| [Base Plan](/students-login/base-plan.md)    | Requisitos, riesgos, estrategia   |
+| [Casos de prueba](/students-login/test-cases.md)   | 4 casos diseñados para pruebas manuales   |
+| [Ejecución de pruebas](/students-login/test-execution.md)   | 4 pruebas ejecutadas   |
+| [Reporte de defectos](/students-login/bug-reports.md)   | 2 bugs documentados con severidad y prioridad   |
+
+
 ## [ Proyecto ]
 Elaborado por Jhon Churivanti Alva, principiante en QA y Testing de Software. 
 
